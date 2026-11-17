@@ -23,6 +23,8 @@ The reader is a senior researcher in the field who has not seen this project. Th
 
 **A paragraph that starts in the middle.** A paragraph that opens with "Figure 4 shows…" or with its first example has not said why the reader is here. Open with one sentence that places it: what stage the system is at, and what goes wrong there. Then the figure and the examples.
 
+**Sentences that do not lead to one another.** A paragraph of correct sentences can still read like a translated list: each case stated on its own, none following from the one before. Give the paragraph one line of argument. Say the general problem first, then take the cases in an order the reader can see (by stage, by cost, from common to rare), and let each sentence pick up something from the last ("A design that fits can still fail later"). End on what the cases share, which is what the next paragraph needs.
+
 **A number the reader cannot place.** "Took 41 ms, against 17 ms predicted and a 30 ms budget" makes the reader work out which comparison matters. Give the one comparison that carries the point (it missed the budget) and leave the rest to the table.
 
 **Arithmetic where the problem should be.** The motivation says what goes wrong and what it costs, with one concrete example and its numbers. Derivations, index algebra and the full parameter space belong to the design section. If a paragraph in the motivation needs four symbols, keep the example and cut the algebra to one sentence.

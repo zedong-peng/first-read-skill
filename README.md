@@ -11,6 +11,7 @@ The reader it describes stops at these things:
 - several mechanisms packed into one sentence,
 - a sentence that defends instead of states,
 - a paragraph that starts in the middle,
+- sentences that do not lead to one another,
 - a number the reader cannot place,
 - arithmetic where the problem should be.
 
