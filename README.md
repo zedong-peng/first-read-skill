@@ -4,12 +4,14 @@ A Claude Code skill for revising a research paper so that a careful first-time r
 
 It was distilled from the way a senior researcher marks up a paper draft: where they highlight, and why. The skill holds the pattern, not the draft. Every example in it is invented.
 
-The reader it describes stops at five things:
+The reader it describes stops at these things:
 
 - a word used before it means anything,
 - a verb that names no action,
 - several mechanisms packed into one sentence,
 - a sentence that defends instead of states,
+- a paragraph that starts in the middle,
+- a number the reader cannot place,
 - arithmetic where the problem should be.
 
 ## Install
